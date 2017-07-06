@@ -1,4 +1,4 @@
-// flashing 2 red and 1 blue in middle 
+// flashing 2 red and 1 blue in middle 16x in 7 seconds
 for (int i = 0; i < 16; i++) {
   digitalWrite(11, HIGH);
   digitalWrite(9, HIGH);
